@@ -1,0 +1,16 @@
+[{
+    "userName": "张三",
+    "age": 23,
+    "email": "zhangsan@itcast.cn",
+    "password": "123456"
+}, {
+    "userName": "李四",
+    "age": 24,
+    "email": "lisi@itcast.cn",
+    "password": "123456"
+}, {
+    "userName": "王五",
+    "age": 25,
+    "email": "wangwu@itcast.cn",
+    "password": "123456"
+}]
