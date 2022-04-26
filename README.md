@@ -62,7 +62,7 @@
 
 ### 安装依赖
 ```bash
-npm install
+npm install OR npm install pnpm -g/pnpm install
 ```
 ### 启动本地开发环境（自带热启动）
 ```bash
