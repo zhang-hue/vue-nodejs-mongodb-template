@@ -31,8 +31,8 @@
 
 ## 截图
 
-![](https://github.com/chengheai/review-demo-image/blob/master/2018-12-20%2014-28-16.2018-12-20%2014_33_17.gif)
-![](https://github.com/chengheai/review-demo-image/blob/master/8uHDTt7UDw.gif)
+![](public/screenshot1.gif)
+![](public/screenshot2.gif)
 ![](public/mongodbData.jpeg)
 
 ## 测试数据
